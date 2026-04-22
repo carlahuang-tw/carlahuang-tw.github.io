@@ -2,42 +2,36 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Carla Huang
+  given: Carla
+  family: Huang
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "✍️"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: XX公關
+email: carla@XXXXexample.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  任職於○○企業/品牌公關，擅長品牌溝通與媒體關係經營。
+  曾任職於○○媒體，專注於相關產業領域報導。
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: Tech Corp   # 直接空白嗎
+    url: https://techcorp.example.com  # 直接空白嗎
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:carla@XXXXexample.com
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - 企業/品牌公關
+  - 媒體關係
+  - 內容策略
+  - 新聞採訪
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
+  - degree: 食品科學系研究所
+    institution: 國立臺灣海洋大學
     start: 2015-09-01
     end: 2019-05-31
     summary: |
